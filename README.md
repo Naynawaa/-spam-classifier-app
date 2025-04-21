@@ -23,5 +23,5 @@ pip install -r requirements.txt
 ```
 2. Run the app:
 ```bash
-streamlit run spam_classifier_app_final.py
+streamlit run app.py
 ```
